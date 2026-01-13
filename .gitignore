@@ -1,0 +1,18 @@
+# Claude Code Settings
+.claude/settings.local.json
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Personal customizations (if you fork this)
+.claude/commands/*-personal.md
